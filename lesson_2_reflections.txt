@@ -10,3 +10,9 @@ There are only things that I want to add while in working directory
 are all files from a project. Staging area makes it possible to make
 a commit only on those files that I want to change. So the change
 will be easier to describe and understand.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can add there updates connected with one logical change, commit them,
+then add another updates connected with different logical change,
+commit them and so on.
