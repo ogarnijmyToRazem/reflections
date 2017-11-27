@@ -27,4 +27,9 @@ How do the diagrams help you visualize the branch structure?
 They helps in finding what changes were made on each branch
 and eventually find out which branches I can merge and which not yet.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+One branch that has two ways in some point. This tells as that there
+were two branches that were merged.
+
 
