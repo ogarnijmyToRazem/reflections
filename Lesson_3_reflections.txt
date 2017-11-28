@@ -2,3 +2,8 @@ When would you want to use a remote repository rather than keeping all your work
 
 Everytime - it's saffier to have them not only on my computer but also in a cloud. Especially with bigger projects
 With many contributors it's good to have the project online.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Because on my remote repository can work many people and maybe some of
+their commits are not what I want in my project.
