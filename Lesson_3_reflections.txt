@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+Everytime - it's saffier to have them not only on my computer but also in a cloud. Especially with bigger projects
+With many contributors it's good to have the project online.
