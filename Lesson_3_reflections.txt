@@ -14,3 +14,7 @@ We make branches when we want to make independent changes in code that
 after all we may want to merge. We use clones to have our own local
 copy of some repository. We use forks when we want to have our own
 GitHub copy of some repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+One can reach it even if doesn't have access to the internet.
