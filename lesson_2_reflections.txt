@@ -32,4 +32,7 @@ What is the result of merging two branches together? Why do we represent it in t
 One branch that has two ways in some point. This tells as that there
 were two branches that were merged.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
+Pros are that it's done fast and precisely. It's also helping to find
+problematic areas in merging. I don't see cons for now.
