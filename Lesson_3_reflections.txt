@@ -18,3 +18,7 @@ GitHub copy of some repository.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 One can reach it even if doesn't have access to the internet.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Making changes without errors would be harder.
